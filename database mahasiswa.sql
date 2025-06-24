@@ -30,8 +30,7 @@ CREATE TABLE `mhs` (
 /*Data for the table `mhs` */
 
 insert  into `mhs`(`NIM`,`NAMA`,`ALAMAT`) values 
-('2301010457','KOMANG RIA MELANTARI','DENPASAR'),
-('2301010458','NI KADEK CHANDRA DWI CAHY','DENPASAR');
+('2301010307','Sawitri','Jl. Merbabu');
 
 /*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
 /*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;
